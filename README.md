@@ -19,7 +19,7 @@ The script to reproduce all the figures, and tables in the paper is as follows:
 - `feature_engineering.ipynb`: data processing and feature engineering
 - `PCA.ipynb`: PCA analysis on top of the previous feature selection/reconstruction in feature engineering
 - `complete_process.ipynb`: basic overall demo for this work
-- `roc_analysis_weak_ml_classifier.py`: training setting search and ROC analysis for 
+- `roc_analysis_weak_ml_classifier.py`: training setting search and ROC analysis for multiple ML classifiers below:
      - Decision Tree (DT)  
      - Random Forest (RF)  
      - Logistic Regression (LR)  
