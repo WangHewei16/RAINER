@@ -12,7 +12,7 @@
 - missingno==0.5.2
 
 ## Dataset
-`weatherAUS.csv`: public rain condition dataset containing 10 years of daily weather observations measured in numerous weather stations.
+`dataset/weatherAUS.csv`: public rain condition dataset containing 10 years of daily weather observations measured in numerous weather stations.
 
 ## Code Organization
 The script to reproduce all the figures, and tables in the paper is as follows:
