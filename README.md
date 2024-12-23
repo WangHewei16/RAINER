@@ -21,7 +21,7 @@ category-encoders==2.6.4
 `dataset/weatherAUS.csv`: public rain condition dataset containing 10 years of daily weather observations measured in numerous weather stations.
 
 ## Code Organization
-The script to reproduce all the figures, and tables in the paper is as follows:
+The script to reproduce all the figures and tables in the paper is as follows:
 - `feature_engineering.ipynb`: data processing and feature engineering
 - `PCA.ipynb`: PCA analysis on top of the previous feature selection/reconstruction in feature engineering
 - `roc_analysis_weak_ml_classifier.py`: training setting search by ROC analysis for multiple classifiers below:
