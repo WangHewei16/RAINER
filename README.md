@@ -2,6 +2,7 @@
 
 
 ## Environment Requirement
+```
 - Python==3.12.0
 - torch==2.5.1
 - numpy==2.1.2
@@ -10,6 +11,7 @@
 - seaborn==0.13.2
 - matplotlib==3.9.2
 - missingno==0.5.2
+```
 
 ## Dataset
 `dataset/weatherAUS.csv`: public rain condition dataset containing 10 years of daily weather observations measured in numerous weather stations.
