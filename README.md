@@ -1,5 +1,8 @@
 # RAINER: A Robust Ensemble Learning Grid Search-Tuned Framework for Rainfall Patterns Prediction
 
+With the spirit of reproducible research, this repository contains all the codes required to produce the results in the manuscript: 
+
+> Yijie Li, Hewei Wang, Junhao Zhong, Jinfeng Xu, Yijie Li, Jinjiang You, Jiayi Zhang, Runzhi Wu, and Soumyabrata Dev, RAINER: A Robust Ensemble Learning Grid Search-Tuned Framework for Rainfall Patterns Prediction, *Decision Analytics*, under review.
 
 ## Environment Requirement
 ```
