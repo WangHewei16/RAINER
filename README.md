@@ -1,4 +1,4 @@
-# Data-driven Hybrid Machine Learning and Neural Network Approach for Predicting Rainfall Patterns with Feature Engineering
+# RAINER: A Robust Ensemble Learning Grid Search-Tuned Framework for Rainfall Patterns Prediction
 
 
 ## Environment Requirement
