@@ -6,14 +6,15 @@ With the spirit of reproducible research, this repository contains all the codes
 
 ## Environment Requirement
 ```
-- Python==3.12.0
-- torch==2.5.1
-- numpy==2.1.2
-- pandas==2.2.3
-- scikit-learn==1.5.2
-- seaborn==0.13.2
-- matplotlib==3.9.2
-- missingno==0.5.2
+Python==3.12.0
+torch==2.5.1
+numpy==2.1.2
+pandas==2.2.3
+scikit-learn==1.5.2
+seaborn==0.13.2
+matplotlib==3.9.2
+missingno==0.5.2
+category-encoders==2.6.4
 ```
 
 ## Dataset
